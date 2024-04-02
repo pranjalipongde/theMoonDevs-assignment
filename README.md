@@ -16,6 +16,3 @@ To address this, I broke down the UI into separate components, namely `BurnStats
 
 Overall, fragmenting the UI into selective components enhances code organization, readability, maintainability, and scalability, making it a beneficial approach for building and maintaining complex React applications.
 
-### Task Completion
-
-I have completed the task "Fragment the UI into selective components to make it more readable" as specified. The UI has been successfully broken down into separate components, improving the overall structure and maintainability of the codebase.
